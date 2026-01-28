@@ -132,7 +132,7 @@
       <label height="0" textalpha="1" borderalpha="1" wordwrap="1" borderradius="1" backgroundcolor="0xececec" textcolor="0x000000" backgroundalpha="1" border="1" width="150" bordercolor="0x000000" enabled="1" background="1"/>
       <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0"/>
       <hotspot title="Кафе (большой зал)" id="Point01" target="$fwd" skinid="Hotspot dot" tilt="-1.34" url="{node4}" description="" pan="-119.99"/>
-      <hotspot title="Вестибюль" id="Point02" target="$fwd" skinid="Hotspot dot" tilt="-4.76" url="{node1}" description="" pan="-282.62"/>
+      <hotspot title="Вестибюль" id="Point02" target="$fwd" skinid="Hotspot dot" tilt="-5.32" url="{node1}" description="" pan="-294.16"/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" zoomafteroutfov="20" zoomin="0" softedge="0" zoomspeed="2" type="diptocolor" zoomafterinfov="90" zoomoutpause="1" enabled="1" zoomfov="20" zoomout="0"/>
@@ -346,7 +346,7 @@
       <label height="0" textalpha="1" borderalpha="1" wordwrap="1" borderradius="1" backgroundcolor="0xececec" textcolor="0x000000" backgroundalpha="1" border="1" width="150" bordercolor="0x000000" enabled="1" background="1"/>
       <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0"/>
       <hotspot title="Большой тренажёрный зал" id="Point01" target="$fwd" skinid="Hotspot dot" tilt="-1.32" url="{node11}" description="" pan="-209.4"/>
-      <hotspot title="Малый тренажёрный зал 2" id="Point02" target="$fwd" skinid="Hotspot dot" tilt="-2.57" url="{node12}" description="" pan="-159.28"/>
+      <hotspot title="Малый тренажёрный зал 2" id="Point02" target="$fwd" skinid="Hotspot dot" tilt="-2.58" url="{node12}" description="" pan="-138.16"/>
       <hotspot title="" id="Point03" target="" skinid="Hotspot up" tilt="0.48" url="{node18}" description="" pan="-23.39"/>
       <hotspot title="Коридор (1 этаж)" id="Point04" target="$fwd" skinid="Hotspot down" tilt="-11.22" url="{node3}" description="" pan="-23.45"/>
     </hotspots>
@@ -456,8 +456,8 @@
       <label height="0" textalpha="1" borderalpha="1" wordwrap="1" borderradius="1" backgroundcolor="0xececec" textcolor="0x000000" backgroundalpha="1" border="1" width="150" bordercolor="0x000000" enabled="1" background="1"/>
       <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0"/>
       <hotspot title="Балкон 2" id="Point01" target="$fwd" skinid="Hotspot dot" tilt="-3.19" url="{node16}" description="" pan="-298.32"/>
-      <hotspot title="Большой тренажёрный зал" id="Point02" target="$fwd" skinid="Hotspot downright" tilt="-26.77" url="{node11}" description="" pan="-167.93"/>
-      <hotspot title="Гостиничный номер (тип 3, 1 этаж)" id="Point03" target="$fwd" skinid="Hotspot upright" tilt="-0.44" url="{node19}" description="" pan="-181.79"/>
+      <hotspot title="Большой тренажёрный зал" id="Point02" target="$fwd" skinid="Hotspot dot" tilt="-26.77" url="{node11}" description="" pan="-167.93"/>
+      <hotspot title="Гостиничный номер (тип 3, 1 этаж)" id="Point03" target="$fwd" skinid="Hotspot arrow right" tilt="-0.44" url="{node19}" description="" pan="-181.79"/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" zoomafteroutfov="20" zoomin="0" softedge="0" zoomspeed="2" type="diptocolor" zoomafterinfov="90" zoomoutpause="1" enabled="1" zoomfov="20" zoomout="0"/>
