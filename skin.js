@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.10/18007
 // Filename: skin_1.ggsk
-// Generated 2026-01-29T04:20:55
+// Generated 2026-01-29T04:25:58
 
 function pano2vrSkin(player,base) {
 	player.addVariable('current_floor', 1, 1);
@@ -1211,8 +1211,8 @@ function pano2vrSkin(player,base) {
 				me._map.ggCurrentLogicStateScaling = newLogicStateScaling;
 				me._map.style[domTransition]='' + cssPrefix + 'transform 0s';
 				if (me._map.ggCurrentLogicStateScaling == 0) {
-					me._map.ggParameter.sx = 1;
-					me._map.ggParameter.sy = 1;
+					me._map.ggParameter.sx = 0.7;
+					me._map.ggParameter.sy = 0.7;
 					me._map.style[domTransform]=parameterToTransform(me._map.ggParameter);
 				}
 				else {
